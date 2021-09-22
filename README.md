@@ -3,3 +3,5 @@ Projeto proposto pela DIO para o desenvolvimento do jogo Space Shooter, utilizan
 
 # tecnologia utilizada: 🛠
 <li>Visual Code </li>
+
+Pronto, mas passível de ajustes 🛠
